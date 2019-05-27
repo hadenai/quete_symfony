@@ -16,8 +16,8 @@ script:
     #- ./bin/phpunit
 notifications:
     email:
-        - TRAINER@wildcodeschool.fr
-        - STUDENT_MAIL
+        - francois.doussin@wildcodeschool.fr
+        - Vincent_Mallard_student2019@wilder.school 
 branches:
     only:
         - master
